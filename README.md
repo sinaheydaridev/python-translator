@@ -2,6 +2,6 @@
 
 ## Installation
 
-`pip install -r requirements`
+`pip install -r requirements.txt`
 
 ### Using this script, you can translate multiple subtitle files
